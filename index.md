@@ -6,7 +6,7 @@ In het moderne basketbal wordt, afhankelijk van de afstand van waarop wordt gesc
 Het verdedigende team probeert het aanvallende team van scoren te weerhouden en poogt zelf de bal te bemachtigen. Een aantal strategieën wordt toegepast om de tegenstander de bal te doen verliezen. Wanneer een aanvallend team het balbezit uit handen geeft, is er sprake van een turnover. Balverlies kan worden geleden als gevolg van een steal van een tegenstander, wanneer een speler met de bal buiten het speelveld geraakt of een loopfout begaat, wanneer hij een aanvallende fout begaat, als een schot door een tegenstander wordt geblokt of wanneer de bal na een mislukte doelpoging door de tegenstander via een defensieve rebound wordt bemachtigd. Wanneer een speler de bal aan een scorende medespeler toespeelt, die daarop een doelpoging kan doen, spreekt men van een assist.
 
 ### Afbeelding
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Jordan_by_Lipofsky_16577.jpg/266px-Jordan_by_Lipofsky_16577.jpg" alt="Trick" width="200" height="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Jordan_by_Lipofsky_16577.jpg/266px-Jordan_by_Lipofsky_16577.jpg" alt="Trick" width="500" height="480">
 
 ### Meer Informatie
 
