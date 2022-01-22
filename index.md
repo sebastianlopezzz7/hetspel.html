@@ -13,5 +13,5 @@ Het verdedigende team probeert het aanvallende team van scoren te weerhouden en 
 Kijk op [Competities in Nederland](https://www.basketball.nl/competities/competities/)
 
    <header>
-<a href="https://sebastianlopezzz7.github.io/">Hoofdpagina</a>
+<a href="https://sebastianlopezzz7.github.io/">[..Naar Hoofdpagina..]</a>
   </header>
